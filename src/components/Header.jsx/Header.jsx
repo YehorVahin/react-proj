@@ -46,7 +46,7 @@ const Header = () => {
         </nav>
         <div className={css.telegram}>
         <FaTelegram className={css.telegramicon}/>
-        <a href="" target="blank" className={css.telegramlink}>Телеграм канал</a>
+        <a href="https://t.me/+3j_naYRgY9k5ODgy?fbclid=PAZXh0bgNhZW0CMTEAAafi-YCMvH7l25mebnZKxvPXMA5cVkGhzev647pUeIExPBShGPVOVDlzXcWjbQ_aem_QYHZWu46PRJgoH0NE1VDag" target="blank" className={css.telegramlink}>Телеграм канал</a>
         </div>
         </div>
         
