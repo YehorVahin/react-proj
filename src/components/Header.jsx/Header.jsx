@@ -1,6 +1,6 @@
 import css from "./Header.module.css";
 import { Routes, Route, NavLink } from "react-router-dom";
-import Braslets from "../../pages/Braslets";
+import Bracelets from "../../pages/Bracelets";
 import Chains from "../../pages/Chains";
 import Crosses from "../../pages/Crosses";
 import Earrings from "../../pages/Earrings";
@@ -31,6 +31,9 @@ const Header = () => {
           <NavLink to="/earrings" className={css.navlink}>
             Сережки
           </NavLink>
+          <NavLink to="/braceltes" className={css.navlink}>
+            Браслети
+          </NavLink>
           <NavLink to="/chains" className={css.navlink}>
             Ланцюжки
           </NavLink>
@@ -59,7 +62,7 @@ const Header = () => {
           <Route path="/crosses" element={<Crosses />} />
           <Route path="/kits" element={<Kits />} />
           <Route path="/necklace" element={<Necklace />} />
-          <Route path="/braslets" element={<Braslets />} />
+          <Route path="/bracelets" element={<Bracelets />} />
         </Routes>
         
       </div>

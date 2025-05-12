@@ -1,5 +1,7 @@
 import React from 'react';
 import Slider from 'react-slick';
+import "slick-carousel/slick/slick.css";
+import "slick-carousel/slick/slick-theme.css";
 
 export default function SimpleSlider() {
     const settings = {
@@ -8,7 +10,8 @@ export default function SimpleSlider() {
         speed: 500,
         slidesToShow: 1,
         slidesToScroll: 1,
-        autoplay: true
+        autoplay: true,
+
     };
   return (
     <div className="slider-container">
