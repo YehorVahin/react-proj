@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "name": "Браслет",
+        "article": "1",
+        "weight": "5,8",
+        "image": "img/bracelet.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Браслет",
+        "article": "2",
+        "weight": "4,5",
+        "image": "img/bracelet.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Браслет",
+        "article": "3",
+        "weight": "6,3",
+        "image": "img/bracelet.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Браслет",
+        "article": "4",
+        "weight": "7,5",
+        "image": "img/bracelet.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Браслет",
+        "article": "5",
+        "weight": "4,7",
+        "image": "img/bracelet.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Браслет",
+        "article": "6",
+        "weight": "3,8",
+        "image": "img/bracelet.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Браслет",
+        "article": "7",
+        "weight": "2,4",
+        "image": "img/bracelet.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Браслет",
+        "article": "8",
+        "weight": "10,2",
+        "image": "img/bracelet.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Браслет",
+        "article": "9",
+        "weight": "7,3",
+        "image": "img/bracelet.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Браслет",
+        "article": "10",
+        "weight": "8,4",
+        "image": "img/bracelet.jpg"
+    }
+]

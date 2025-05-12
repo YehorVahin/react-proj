@@ -31,7 +31,7 @@ const Header = () => {
           <NavLink to="/earrings" className={css.navlink}>
             Сережки
           </NavLink>
-          <NavLink to="/braceltes" className={css.navlink}>
+          <NavLink to="/bracelets" className={css.navlink}>
             Браслети
           </NavLink>
           <NavLink to="/chains" className={css.navlink}>

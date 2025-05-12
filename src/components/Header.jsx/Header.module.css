@@ -3,6 +3,7 @@
   background-color: #43020B;
   width: 100%;
   margin: 0 auto;
+  height: 100px;
 }
 .container {
   display: flex;
