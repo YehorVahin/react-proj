@@ -16,11 +16,11 @@ export default function SimpleSlider() {
   return (
     <div className="slider-container">
       <Slider {...settings}>
-        <div><h3>1</h3></div>
-        <div><h3>2</h3></div>
-        <div><h3>3</h3></div>
-        <div><h3>4</h3></div>
-        <div><h3>5</h3></div>
+        <div><img src="../img/bracelet-slider.jpg" alt="" /></div>
+        <div><img src="../img/bracelet-slider.jpg" alt="" /></div>
+        <div><img src="../img/bracelet-slider.jpg" alt="" /></div>
+        <div><img src="../img/bracelet-slider.jpg" alt="" /></div>
+        <div><img src="../img/bracelet-slider.jpg" alt="" /></div>
       </Slider>
     </div>
   )

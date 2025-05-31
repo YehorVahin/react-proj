@@ -1,3 +1,6 @@
 .slider-container{
-    margin-top: 105px;
+    margin-top: 120px;
+}
+.slider-container img{
+    padding-top: 20px;
 }
